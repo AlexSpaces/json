@@ -1,19 +1,19 @@
 {
 	"META": {
-		"repoName": "Alex test repo",
-		"repoIcon": "https://usescarlet.com/img/icon.png"
+		"repoName": "uYouPlusExtra",
+		"repoIcon": "https://debughunt.com/wp-content/uploads/2022/04/uYou-IPA-iOS-15-1.jpg"
 	},
 	"Tweaked": [{
-		"name": "uYou+",
+		"name": "arichorn - uYouPlusExtra",
 		"version": "17.37.3",
-		"down": "https://github.com/qnblackcat/uYouPlus/releases/download/v17.37.3-2.1/uYouPlus_17.37.3_2.1.ipa",
+		"down": "https://github.com/arichorn/uYouPlusExtra/releases/download/v17.37.3-2.1-(210)/uYouPlusExtra_17.37.3_2.1_F5.ipa",
 		"category": "Tweaked Apps",
 		"description": "True ad-less YouTube...",
 		"bundleID": "com.google.ios.youtube",
 		"appstore": "com.google.ios.youtube",
 		"contact": {
-			"web": "usescarlet.com",
-			"twitter": "https://twitter.com/twickdrepo"
+			"web": "https://github.com/arichorn",
+			"twitter": "https://github.com/arichorn"
 		}
 	}]
 }

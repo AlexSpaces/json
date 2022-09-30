@@ -3,7 +3,7 @@
 		"repoName": "uYouPlusExtra",
 		"repoIcon": "https://debughunt.com/wp-content/uploads/2022/04/uYou-IPA-iOS-15-1.jpg"
 	},
-	"UYouPlusExtra": [{
+	"UYou": [{
 		"name": "arichorn - uYouPlusExtra",
 		"version": "17.37.3",
 		"down": "https://github.com/arichorn/uYouPlusExtra/releases/download/v17.37.3-2.1-(210)/uYouPlusExtra_17.37.3_2.1_F5.ipa",
@@ -14,6 +14,14 @@
 		"contact": {
 			"web": "https://github.com/arichorn",
 			"twitter": "https://github.com/arichorn"
+				}, {
+		"name": "qnblackcat - uYouPlus",
+		"version": "1.0",
+		"down": "https://github.com/qnblackcat/uYouPlus/releases/download/v17.37.3-2.1/uYouPlus_17.37.3_2.1.ipa",
+		"category": "UYouPlus",
+		"description": "UyouPlus",
+		"bundleID": "com.google.ios.youtube",
+		"appstore": "com.google.ios.youtube"
 		}
 	}]
 }
